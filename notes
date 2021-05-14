@@ -1,0 +1,12 @@
+add code in git hub
+
+1>First login in git hub.
+2>click on repository and click on new.
+3>set the name in github.
+4>go inside cmd then write command git init.
+5>after this write git add . all file insert.
+6>git commit -m "header,footer and login page generated"
+
+2>How to using Seeder
+1>Simple create seeder file.
+2>
